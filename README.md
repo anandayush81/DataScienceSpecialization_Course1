@@ -5,3 +5,5 @@ This repository is for all the resources of the first course in the series of co
 1. The jupyter notebooks titled "Assigments" are the programming assignments that I completed for the course.
 
 2. The jupyter notebooks titled "Week" are the tutorial codes for each week's concept and topics.
+
+3. The CSV and Excel files are the datasets used in solving the Assignments
